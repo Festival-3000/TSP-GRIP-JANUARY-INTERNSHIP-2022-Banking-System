@@ -1,14 +1,13 @@
-# TSP-GRIP-JANUARY-INTERNSHIP-2022-Banking-System
+#Banking System
+The Sparks Foundation Internship Project : Basic Banking System  
+A Web Application used to transfer money between multiple users.  
+ 
+Front-end : HTML, CSS, Bootstrap & Javascript 
+Database : MySQL   
+Back-end : PHP 
 
-Sparks Foundation Internship Project : Basic Banking System A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
+Database contains two Tables- Users Table & Transaction Table 
+1. User table have basic fields such as name, email & current balance. 
+2. Transaction table records all transfers happened along with their time.  
 
-Stack used - Front-end : HTML, CSS, Bootstrap &amp; Javascript Back-end : PHP Database : MySQL  
-
-Database contains two Tables- Users Table &amp; Transaction Table
-
-•User table have basic fields such as name, email &amp; current balance.  
-•Transaction table records all transfers happened along with their time.  
-
-Flow of the Website: 
-
-Homepage > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.
+Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
